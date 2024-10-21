@@ -16,3 +16,15 @@ MyName：Yang Sir
 最后，祝您生活愉快、身体健康。
 
 XianZhiSen_yang@outlook.com
+
+友情链接：
+
+https://github.com/XianZS/MyPython
+
+https://github.com/XianZS/ShuJuKuProject
+
+https://github.com/XianZS/GenshinImpact
+
+https://github.com/XianZS/HomeWork
+
+https://github.com/XianZS/Learn
