@@ -27,4 +27,4 @@ https://github.com/XianZS/GenshinImpact
 
 https://github.com/XianZS/HomeWork
 
-https://github.com/XianZS/CSharpDesktopDevelopment.git
+https://github.com/XianZS/MyCSharpDesktopDevelopment.git
